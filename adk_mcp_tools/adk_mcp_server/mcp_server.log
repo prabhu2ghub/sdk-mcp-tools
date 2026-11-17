@@ -1,0 +1,19 @@
+2026-11-17 00:33:00,618 Initializing ADK load_web_page tool...
+2026-11-17 00:33:00,618 ADK tool 'load_web_page' initialized and ready to be exposed via MCP.
+2026-11-17 00:33:00,618 Creating MCP Server instance...
+2026-11-17 00:33:00,618 Launching MCP Server to expose ADK tools via stdio...
+2026-11-17 00:33:00,632 MCP Stdio Server: Starting handshake with client...
+2026-11-17 00:33:00,642 MCP Server: Received list_tools request.
+2026-11-17 00:33:00,643 MCP Server: Advertising tool: load_web_page
+2026-11-17 00:33:02,490 MCP Server: Received list_tools request.
+2026-11-17 00:33:02,491 MCP Server: Advertising tool: load_web_page
+2026-11-17 00:33:02,515 MCP Server: Received call_tool request for 'load_web_page' with args: {'url': 'http://example.com'}
+2026-11-17 00:33:03,104 MCP Server: ADK tool 'load_web_page' executed. Response: This domain is for use in documentation examples without needing permission. This is not a service; avoid relying on it for testing and monitoring purposes.
+2026-11-17 00:33:03,123 MCP Server: Received list_tools request.
+2026-11-17 00:33:03,124 MCP Server: Advertising tool: load_web_page
+2026-11-17 00:33:24,083 MCP Server: Received list_tools request.
+2026-11-17 00:33:24,084 MCP Server: Advertising tool: load_web_page
+2026-11-17 00:33:25,485 MCP Server: Received list_tools request.
+2026-11-17 00:33:25,486 MCP Server: Advertising tool: load_web_page
+2026-11-17 00:33:26,001 MCP Server: Received list_tools request.
+2026-11-17 00:33:26,002 MCP Server: Advertising tool: load_web_page
